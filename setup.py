@@ -9,7 +9,7 @@ setup(
     url="https://github.com/feiwencaho/dedis-cluster.git",
     author="feivincent",
     author_email="hi@feiwenchao.me",
-    version="1.0.0",
+    version="1.0.1",
     packages=[
         "dedis_cluster",
         "dedis_cluster.client",
